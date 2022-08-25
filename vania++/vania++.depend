@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651856493 source:c:\onpu\c(1curs)\vania++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

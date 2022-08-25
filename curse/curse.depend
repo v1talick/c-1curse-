@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654531255 source:c:\onpu\c(1curs)\curse\main.c
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+

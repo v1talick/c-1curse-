@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653418905 source:c:\onpu\c(1curs)\vanhelp\main.c
+	<Windows.h>
+	<stdlib.h>
+	<math.h>
+

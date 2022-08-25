@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651164447 source:c:\onpu\c(1curs)\l\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651164777 source:c:\onpu\c(1curs)\vania\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

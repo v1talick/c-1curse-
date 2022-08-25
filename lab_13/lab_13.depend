@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651669131 source:c:\onpu\c(1curs)\lab_13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
